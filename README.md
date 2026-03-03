@@ -22,9 +22,9 @@ The Foundations course covered the basics for the start of any web developer jou
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **Landing Page** | A complex CSS layout project focusing on Flexbox and design. | [Repo](#https://github.com/BjornTheThunder/landing-page-odin-project) / [Live Demo](#https://bjornthethunder.github.io/landing-page-odin-project/) |
-| **Rock Paper Scissors** | My first real JS project—handling logic and UI updates. | [Repo](#https://github.com/BjornTheThunder/rock-paper-scissors-odin-project) / [Live Demo](#https://bjornthethunder.github.io/rock-paper-scissors-odin-project/) |
-| **Calculator** | A fully functional calculator (the ultimate logic test!). | [Repo](#https://github.com/BjornTheThunder/calculator-odin-project) / [Live Demo](#https://bjornthethunder.github.io/calculator-odin-project/) |
+| **Landing Page** | A complex CSS layout project focusing on Flexbox and design. | [Repo](https://github.com/BjornTheThunder/landing-page-odin-project) / [Live Demo](https://bjornthethunder.github.io/landing-page-odin-project/) |
+| **Rock Paper Scissors** | My first real JS project—handling logic and UI updates. | [Repo](https://github.com/BjornTheThunder/rock-paper-scissors-odin-project) / [Live Demo](https://bjornthethunder.github.io/rock-paper-scissors-odin-project/) |
+| **Calculator** | A fully functional calculator (the ultimate logic test!). | [Repo](https://github.com/BjornTheThunder/calculator-odin-project) / [Live Demo](https://bjornthethunder.github.io/calculator-odin-project/) |
 
 ---
 
